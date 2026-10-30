@@ -1,1 +1,1 @@
-﻿public class Main { public static void main(String[] args) { System.out.println(999); } public static int divide(int a, int b) { return a / b; } }
+﻿public class Main { public static void main(String[] args) { System.out.println(999); } public static int divide(int a, int b) { return a / b; } public static int multiply(int a, int b) { return a * b; } }
